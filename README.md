@@ -34,6 +34,7 @@ We welcome contributions from everyone! Here's how you can help:
 ---
 
 ## 🛠 How to Get Started
+   - use world_space_invaders.json
 
 1. **Clone the Repo**:
    ```bash
@@ -61,9 +62,9 @@ We welcome contributions from everyone! Here's how you can help:
 ## 📊 Global stats
    - Currently
       * 81 cities
-      * 4164 mosaics
+      * 4165 mosaics
       * 4078 GPS lat/lon coordinates
-      * 7490 points (only)
+      * 7590 points (only)
 
 ---
 
