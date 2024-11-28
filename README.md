@@ -60,11 +60,10 @@ We welcome contributions from everyone! Here's how you can help:
 ---
 
 ## 📊 Global stats
-   - Currently
-      * 81 cities
-      * 4165 mosaics
-      * 4078 GPS lat/lon coordinates
-      * 7590 points (only)
+   - | V1 | 81 cities | 4165 mosaics | 4078 GPS lat/lon coordinates | 7590 points (only) | Initial version                |
+   - | V2 | 82 cities | 4243 mosaics | 4078 GPS lat/lon coordinates | 115180 points      | Added Space + PA_1525          |
+   - | V3 | 82 cities | 4243 mosaics | 4138 GPS lat/lon coordinates | 115160 points      | Correcting BAB pts and add GPS |
+   - | V4 | 86 cities | 4282 mosaics | 4139 GPS lat/lon coordinates | 115480 points      | Added DHK, GRTI, SL, BT        |                      
 
 ---
 
