@@ -66,7 +66,8 @@ We welcome contributions from everyone! Here's how you can help:
 | V1      | 81        | 4165       | 4078                       | 7590 (only) | Initial version                 |
 | V2      | 82        | 4243       | 4078                       | 115180      | Added Space + PA_1525           |
 | V3      | 82        | 4243       | 4138                       | 115160      | Correcting BAB pts and add GPS  |
-| V4      | 86        | 4282       | 4139                       | 115480      | Added DHK, GRTI, SL, BT         |                      
+| V4      | 86        | 4282       | 4139                       | 115480      | Added DHK, GRTI, SL, BT         |
+| V5      | 86        | 4285       | 4142                       | 116550      | Added PA_1526, PA_1527, PA_1528 |
 
 ---
 
